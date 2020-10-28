@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main()
+{
+printf("ënter the num");
+scanf("%d",&num);
+mul=a*b;
+printf("the mul of the number is %d",sum);
+}
