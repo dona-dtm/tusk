@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main()
+{
+printf("ënter the num");
+scanf("%d",&num);
+add=a+b;
+printf("the addiion of the number is %d",sum);
+}
